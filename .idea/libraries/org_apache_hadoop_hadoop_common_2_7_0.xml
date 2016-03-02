@@ -1,0 +1,8 @@
+<component name="libraryTable">
+  <library name="org.apache.hadoop:hadoop-common:2.7.0" type="repository">
+    <properties maven-id="org.apache.hadoop:hadoop-common:2.7.0" />
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
